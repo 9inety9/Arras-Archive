@@ -1,0 +1,28 @@
+{
+	"name": "Vigilance Light",
+	"author": "Ray Adams",
+	"content": {
+		"teal": "#7ADBBC",
+		"lgreen": "#B9E87E",
+		"orange": "#ebbd9b",
+		"yellow": "#f7f3be",
+		"lavender": "#B58EFD",
+		"pink": "#EF99C3",
+		"vlgrey": "#e3e3e3",
+		"lgrey": "#AA9F9E",
+		"guiwhite": "#FFFFFF",
+		"black": "#484848",
+		"blue": "#3fbdfc",
+		"green": "#26d61a",
+		"red": "#ff3034",
+		"gold": "#EFC74B",
+		"purple": "#a98ced",
+		"magenta": "#e85fc4",
+		"grey": "#A7A7AF",
+		"dgrey": "#726F6F",
+		"white": "#d6d6d6",
+		"guiblack": "#000000",
+		"paletteSize": 10,
+		"border": 0.5
+	}
+}

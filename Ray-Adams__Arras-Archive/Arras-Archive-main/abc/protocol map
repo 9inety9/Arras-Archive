@@ -1,0 +1,25 @@
+=====================================================
+OP  | Name          | Summary
+
+-----------------------------------------------------
+Clientbound Packets |
+-----------------------------------------------------
+"w" | Welcome       | S2C Handshake
+"P" | Passcode      | Unused
+"C" | PoW Challenge | Proof of Work
+"R" | Room Info     | Map grid, size, and etc
+"r" |               | forgot
+"J" | Mockups JSON  | Loads tank data
+"e" | Eval          | Evaluation controlled by server
+"M" |               | forgot
+"c" | Camera Update | For deathscreen
+"m" | Message       | (notification)
+"u" | Update        | World Update
+"b" | Broadcast     | LB + Minimap\s
+"p" | Ping          | Ping pong
+"F" | Fail / Death  | Contains gameplay information
+"K" | Kick          | Kicks players with a message
+
+-----------------------------------------------------
+Serverbound Packets |
+-----------------------------------------------------
